@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">WorldHeritage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="google_api_key">AIzaSyBfTcT2fajPba2WVOJzqLU-_vE4jptcBGQ</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="name">
+        <item>Colloseum</item>
+        <item>Gyeongbokgung Palace</item>
+        <item>Stonehenge</item>
+        <item>MachuPichu</item>
+        <item>Borobudur Temple</item>
+        <item>Eiffel</item>
+    </string-array>
+    <string-array name="location">
+        <item>Piazza del Colosseo, 00184 Roma, Italia</item>
+        <item>161 Sajik-ro, Jongno-gu, Seoul, Korea</item>
+        <item>Amesbury, Wiltshire SP4 7DE, Inggris</item>
+        <item>Peru</item>
+        <item>Borobudur, Indonesia</item>
+        <item>Champ de Mars, 75007 Paris, Prancis</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>also known as the Flavian Amphitheatre (Latin: Amphitheatrum Flavium; Italian: Anfiteatro Flavio or Colosseo , is an oval amphitheatre in the centre of the city of Rome, Italy. Built of concrete and sand, it is the largest amphitheatre ever built. The Colosseum is situated just east of the Roman Forum. Construction began under the emperor Vespasian in AD 72 and was completed in AD 80 under his successor and heir Titus. Further modifications were made during the reign of Domitian (81–96). These three emperors are known as the Flavian dynasty, and the amphitheatre was named in Latin for its association with their family name (Flavius).
+The Colosseum could hold, it is estimated, between 50,000 and 80,000 spectators, having an average audience of some 65,000. It was used for gladiatorial contests and public spectacles such as mock sea battles (for only a short time as the hypogeum was soon filled in with mechanisms to support the other activities), animal hunts, executions, re-enactments of famous battles, and dramas based on Classical mythology. The building ceased to be used for entertainment in the early medieval era. .</item>
+        <item>Built in 1395, Gyeongbokgung Palace is also commonly referred to as the Northern Palace because its location is furthest north when compared to the neighboring palaces of Changdeokgung (Eastern Palace) and Gyeonghuigung (Western Palace) Palace. Gyeongbokgung Palace is arguably the most beautiful, and remains the largest of all five palaces.
+The premises were once destroyed by fire during the Imjin War (Japanese Invasions, 1592-1598). However, all of the palace buildings were later restored under the leadership of Heungseondaewongun during the reign of King Gojong (1852-1919).
+Remarkably, the most representative edifices of the Joseon Dynasty, Gyeonghoeru Pavilion and Hyangwonjeong Pond, have remained relatively intact. Woldae and the sculptures of Geunjeongjeon (The Royal Audience Chamber) represent past sculptures of contemporary art.
+The National Palace Museum of Korea is located south of Heungnyemun Gate, and the National Folk Museum is located on the eastern side within Hyangwonjeong.</item>
+        <item>Stonehenge is a prehistoric monument in Wiltshire, England, 2 miles (3 km) west of Amesbury and 8 miles (13 km) north of Salisbury. Stonehenge\'s ring of standing stones are set within earthworks in the middle of the most dense complex of Neolithic and Bronze Age monuments in England, including several hundred burial mounds.
+Archaeologists believe it was constructed from 3000 BC to 2000 BC. The surrounding circular earth bank and ditch, which constitute the earliest phase of the monument, have been dated to about 3100 BC. Radiocarbon dating suggests that the first bluestones were raised between 2400 and 2200 BC,although they may have been at the site as early as 3000 BC.
+Stonehenge has been a legally protected Scheduled Ancient Monument since 1882 when legislation to protect historic monuments was first successfully introduced in Britain. The site and its surroundings were added to UNESCO\'s list of World Heritage Sites in 1986. Stonehenge is owned by the Crown and managed by English Heritage; the surrounding land is owned by the National Trust.</item>
+        <item>Machu Picchu was declared a Peruvian Historical Sanctuary in 1981 and UNESCO World Heritage Site in 1983. In 2007, Machu Picchu was voted one of the New Seven Wonders of the World. Machu Picchu stands 2,430 m above sea-level, in the middle of a tropical mountain forest, in an extraordinarily beautiful setting. It was probably the most amazing urban creation of the Inca Empire at its height; its giant walls, terraces and ramps seem as if they have been cut naturally in the continuous rock escarpments. The natural setting, on the eastern slopes of the Andes, encompasses the upper Amazon basin with its rich diversity of flora and fauna.</item>
+        <item>This famous Buddhist temple, dating from the 8th and 9th centuries, is located in central Java. It was built in three tiers: a pyramidal base with five concentric square terraces, the trunk of a cone with three circular platforms and, at the top, a monumental stupa. The walls and balustrades are decorated with fine low reliefs, covering a total surface area of 2,500 m2. Around the circular platforms are 72 openwork stupas, each containing a statue of the Buddha. The monument was restored with UNESCO\'s help in the 1970s.</item>
+        <item>Erected in 1889 as the entrance arch to the 1889 World\'s Fair, it has become both a global cultural icon of France and one of the most recognizable structures in the world. The tower is the tallest structure in Paris and the most-visited paid monument in the world</item>
+    </string-array>
+</resources>
